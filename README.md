@@ -35,7 +35,7 @@ This project aims to create a comprehensive Pokémon Pokédex application. The a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/pokemon-pokedex.git
+    git clone https://github.com/Alpharceus/pokemon-pokedex.git
     cd pokemon-pokedex
     ```
 
